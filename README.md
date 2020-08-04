@@ -1,2 +1,1 @@
-# AGGAN 
-Annealing Genetic GAN for Minority Oversampling
+# AGGAN:Annealing Genetic GAN for Minority Oversampling
