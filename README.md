@@ -1,26 +1,25 @@
 # Annealing Genetic GAN for Minority Oversampling
 Authors: Jingyu Hao, Chengjia Wang, Heye Zhang, Guang Yang
 
-![mainimg](https://github.com/zhifan-gao/HDFP/blob/master/sample_results.png)
+![mainimg](https://github.com/Heye-SYSU/AGGAN/blob/master/figure1.png)
 
 ## Introduction
-This is a Tensorflow implementation for a salient object detection approach based on the deep pyramid neural network, as presented in:
+This is a Pytorch implementation for an evoluationary GAn for imbalanced data, as presented in:
 
-S. Dong, Z. Gao, S. Sun, X. Wang, M. Li, H. Zhang et al., Holistic and Deep Feature Pyramids for Saliency Detection, British Machine Vision Conference, 2020. [[Link]](http://bmvc2018.org/contents/papers/0212.pdf)
-
+British Machine Vision Conference, 2020.  
 ## Citation
 ```
-@inproceedings{SD2018Holistic,
-  title={Holistic and Deep Feature Pyramids for Saliency Detection, British Machine Vision Conference},
-  author={Shizhou Dong and Zhifan Gao and Shanhui Sun and Xin Wang and Ming Li and Heye Zhang and Guang Yang and Huafeng Liu and Shuo Li},
+@inproceedings{JYH2020AGGAN,
+  title={Annealing Genetic GAN for Minority Oversampling, British Machine Vision Conference},
+  author={Jingyu Hao and Chengjia Wang and Heye Zhang and Guang Yang},
   booktitle={British Machine Vision Conference},
-  year={2018}
+  year={2020}
 }
 ```
 
 ## Requirement:
 ```
-Tensorflow == 1.4.0
+Pytorch == 1.4.0
 ```
 
 ## Others:
