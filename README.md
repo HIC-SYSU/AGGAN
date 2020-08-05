@@ -19,7 +19,7 @@ British Machine Vision Conference, 2020.
 
 ## Requirement:
 ```
-Pytorch
+Pytorch = 1.3.0
 ```
 
 ## Others:
